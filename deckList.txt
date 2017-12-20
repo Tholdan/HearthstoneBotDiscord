@@ -1,0 +1,9 @@
+Brujo
+Cazador
+Chamán
+Druida
+Guerrero
+Mago
+Paladín
+Pícaro
+Sacerdote
