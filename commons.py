@@ -16,7 +16,7 @@ import hearthstoneDeckList
 _DECK_LIST_FILE = "deckList.txt"
 
 #Bot stuff
-BOT_TOKEN = "MzE2MjU1MzgwMzgyNDE2ODk2.DAc45g.1HUKxFC3ExpMZytl_35-OtM1Gs8"
+BOT_TOKEN = "YourBotToken"
 BOT_DESCRIPTION = "Hearthstone Bot"
 COMMAND_PREFIX = '.'
 
