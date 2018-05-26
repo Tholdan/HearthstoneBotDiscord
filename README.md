@@ -9,3 +9,9 @@ This is a hearthstone bot for discord made with two basic functionalities:
 - .deck <className>(Opcional) : Muestra lista de mazos total o de la clase especificada.
 - .addDeck className deckName cost hearthpwnUrl : Añade el mazo especificado a la lista de mazos.
 - .removeDeck className deckName : Elimina el mazo especificado de la lista de mazos.
+
+# Ejemplos de uso
+![alt text](https://raw.githubusercontent.com/Tholdan/HearthstoneBotDiscord/master/images/help.PNG)
+![alt text](https://raw.githubusercontent.com/Tholdan/HearthstoneBotDiscord/master/images/Card_GoldCard_Commands.PNG)
+![alt text](https://raw.githubusercontent.com/Tholdan/HearthstoneBotDiscord/master/images/addDeck_deck.PNG)
+![alt text](https://raw.githubusercontent.com/Tholdan/HearthstoneBotDiscord/master/images/deck_class.PNG)
